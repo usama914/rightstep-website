@@ -1,0 +1,97 @@
+a {
+    text-decoration: none;
+}
+
+/* headings */
+.heading-one {
+
+    font-size: 38px;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+    line-height: 45px;
+}
+
+.heading-two {
+    font-size: 19px;
+    line-height: 28px;
+    font-weight: 600;
+    display: block;
+}
+
+/* text */
+.text-default {
+    font-size: 18px;
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+    line-height: 36px;
+    opacity: 0.53;
+}
+
+/* titles */
+.title-one {
+    font-size: 19px;
+    line-height: 29px;
+    font-weight: 500;
+    color: rgb(107, 230, 44);
+}
+
+
+.title-two {
+    font-size: 27px;
+    font-weight: 600;
+    line-height: 42px;
+    text-align: center;
+}
+
+.title-three {
+    font-size: 13px;
+    line-height: 19px;
+    font-weight: 600;
+    display: block;
+    opacity: 1;
+}
+
+.title-four {
+    font-size: 11px;
+    line-height: 24px;
+    font-weight: 400;
+    opacity: 0.6;
+}
+
+.title-five {
+    font-size: 45px;
+    line-height: 70px;
+    font-weight: 500;
+    color: #2C3C4D;
+    text-align: left;
+}
+
+
+
+/* colors */
+.default-color {
+    color: rgb(107, 230, 44);
+}
+
+.card {
+    border-radius: 0;
+    border: none;
+}
+
+.card-body {
+    padding: 0px;
+}
+
+p {
+    margin-bottom: 2px;
+}
+
+.card-title {
+    margin-bottom: 2px;
+}
+
+/* lodaer */
+.loader {
+    display: flex;
+    justify-content: center;
+}
